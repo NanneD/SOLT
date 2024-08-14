@@ -1,4 +1,4 @@
-![SOLT logo](doc/_static/SOLT.svg | height=125)
+![SOLT logo](doc/_static/SOLT.svg)
 
 # SOLT
 
