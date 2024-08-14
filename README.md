@@ -1,4 +1,6 @@
-![SOLT logo](doc/_static/SOLT.svg)
+<p align="center">
+	<img src="https://github.com/NanneD/SOLT/blob/main/doc/_static/SOLT.svg" height="310">
+</p>
 
 # SOLT
 
