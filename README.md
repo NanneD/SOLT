@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/NanneD/SOLT/blob/main/doc/_static/SOLT.svg" width="960">
+	<img src="https://github.com/NanneD/SOLT/blob/main/doc/_static/SOLT.svg" width="720">
 </p>
 
 # SOLT
