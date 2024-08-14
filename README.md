@@ -1,4 +1,4 @@
-![SOLT logo](doc/_static/SOLT.svg)
+![SOLT logo](doc/_static/SOLT.svg | height = 125)
 
 # SOLT
 
@@ -14,7 +14,7 @@ SOLT contains several Jupyter Notebooks with implementations of the algorithms t
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NanneD/SOLT/HEAD)
 
-You can also download the Jupyter Notebooks [from the repository](https://github.com/NanneD/SOLT/notebooks/) and run these in your own environment.
+You can also download the Jupyter Notebooks [from the repository](https://github.com/NanneD/SOLT/tree/main/notebooks) and run these in your own environment.
 
 ## License
 
